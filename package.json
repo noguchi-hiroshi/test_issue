@@ -1,0 +1,23 @@
+{
+  "name": "test_issue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/noguchi-hiroshi/test_issue.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/noguchi-hiroshi/test_issue/issues"
+  },
+  "homepage": "https://github.com/noguchi-hiroshi/test_issue#readme",
+  "dependencies": {
+    "@octokit/rest": "^15.6.1",
+    "dotenv": "^5.0.1"
+  }
+}
